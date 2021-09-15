@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vinayakg123.github.io/csb-cpudx/static/css/main.5e5c6dc1.chunk.css",
+    "main.js": "https://vinayakg123.github.io/csb-cpudx/static/js/main.07148dd4.chunk.js",
+    "main.js.map": "https://vinayakg123.github.io/csb-cpudx/static/js/main.07148dd4.chunk.js.map",
+    "runtime-main.js": "https://vinayakg123.github.io/csb-cpudx/static/js/runtime-main.9db08da1.js",
+    "runtime-main.js.map": "https://vinayakg123.github.io/csb-cpudx/static/js/runtime-main.9db08da1.js.map",
+    "static/js/2.9ee2db4f.chunk.js": "https://vinayakg123.github.io/csb-cpudx/static/js/2.9ee2db4f.chunk.js",
+    "static/js/2.9ee2db4f.chunk.js.map": "https://vinayakg123.github.io/csb-cpudx/static/js/2.9ee2db4f.chunk.js.map",
+    "index.html": "https://vinayakg123.github.io/csb-cpudx/index.html",
+    "static/css/main.5e5c6dc1.chunk.css.map": "https://vinayakg123.github.io/csb-cpudx/static/css/main.5e5c6dc1.chunk.css.map",
+    "static/js/2.9ee2db4f.chunk.js.LICENSE.txt": "https://vinayakg123.github.io/csb-cpudx/static/js/2.9ee2db4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db08da1.js",
+    "static/js/2.9ee2db4f.chunk.js",
+    "static/css/main.5e5c6dc1.chunk.css",
+    "static/js/main.07148dd4.chunk.js"
+  ]
+}
